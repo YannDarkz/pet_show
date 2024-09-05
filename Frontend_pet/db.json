@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "53c4",
+      "username": "ian",
+      "age": 23,
+      "password": "12",
+      "pets": [
+        {
+          "animal": "cachorro",
+          "name": "dark",
+          "gender": "male",
+          "life": 100,
+          "needs": {
+            "urine": 50,
+            "faecs": 50
+          },
+          "death": false,
+          "create": "2024-09-03 21:09:46",
+          "update": ""
+        }
+      ]
+    },
+    {
+      "id": "53c4",
+      "username": "iany",
+      "age": 23,
+      "password": "123",
+      "pets": [
+        {
+          "animal": "cachorro",
+          "name": "dark",
+          "gender": "male",
+          "life": 100,
+          "needs": {
+            "urine": 50,
+            "faecs": 50
+          },
+          "death": false,
+          "create": "2024-09-03 21:09:46",
+          "update": ""
+        }
+      ]
+    }
+  ]
+}
